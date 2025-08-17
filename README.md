@@ -20,7 +20,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# Tv webapp <a name="about-project"></a>
+# Dynamic-cosmetologist <a name="about-project"></a>
 
 **Dynamic-cosmetologist** is a dynamic website used by a cosmetology shop. This includes the barbers, hairstylists, makeup artists, estheticians, and nail technicians. This site takes the form of www.sitename.com/businessname. On entering the business name, an API is called that corresponds to the data of the business name meaning a lot of the features and components will appear different depending on the data of this business. This means that even though the general outlook might not change, a big part of the website changes to suit a specific and unique look for the group of businesses. 
 
