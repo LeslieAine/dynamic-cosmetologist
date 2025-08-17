@@ -1,36 +1,136 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Dynamic Cosmetologist
+<a name="readme-top"></a>
 
-## Getting Started
+# 📗 Table of Contents
 
-First, run the development server:
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+- [👥 Authors](#authors)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [📝 License](#license)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+<!-- PROJECT DESCRIPTION -->
+
+# Tv webapp <a name="about-project"></a>
+
+**Dynamic-cosmetologist** is a dynamic website used by a cosmetology shop. This includes the barbers, hairstylists, makeup artists, estheticians, and nail technicians. This site takes the form of www.sitename.com/businessname. On entering the business name, an API is called that corresponds to the data of the business name meaning a lot of the features and components will appear different depending on the data of this business. This means that even though the general outlook might not change, a big part of the website changes to suit a specific and unique look for the group of businesses. 
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+This project was built using these technologies.
+
+- JavaScript
+- TypeScript
+- SCSS
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **Lets a group of businesses have a shared yet unique look for their site**
+- **Lets users book appointments and specify the services needed from the service menu**
+- **Showcases a business portfolio as well**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- For an esthetician business look: [Here](https://dynamic-cosmetologist-3958.vercel.app/smoothskin) Sample business name used here is SmoothSkin care
+- For a makeup artist business look: [Here](https://dynamic-cosmetologist-3958.vercel.app/Juliesbeat) Sample business name used here is Beats by Julie
+- For a nail technician business look: [Here](https://dynamic-cosmetologist-3958.vercel.app/TianaNails) Sample business name used here is Tiana Nails
+- For a hairstylist business look: [Here](https://dynamic-cosmetologist-3958.vercel.app/Charlene%20the%20Braider) Sample business name used here is Charlene the Braider
+- For a barber business look: [Here](https://dynamic-cosmetologist-3958.vercel.app/DripCutZ) Sample business name used here is DripCuts
+
+As you can see each has a unique look to their portfolios and even services to make a booking!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+This project requires the following:
+
+- Node.js
+- Webpack
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```sh
+  git clone https://github.com/LeslieAine/dynamic-cosmetologist.git
+  cd dynamic-cosmetologist
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Install
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Install this project with:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+```sh
+  npm install
+```
 
-## Learn More
+### Usage
 
-To learn more about Next.js, take a look at the following resources:
+To run the project, execute the following command:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```sh
+    npm run dev
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Deploy on Vercel
+<!-- AUTHORS -->
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 👥 Authors <a name="authors"></a>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+👤 **Leslie Aine**
+
+- GitHub: [@LeslieAine](https://github.com/LeslieAine)
+- LinkedIn: [@LeslieAine](https://linkedin.com/in/LeslieAine)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project or if it helped you, please give it a ⭐️!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
