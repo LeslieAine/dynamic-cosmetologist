@@ -1,0 +1,41 @@
+{
+    "docs": [
+      {
+        "id": "66723c95a7613e51b319d905",
+        "country_location": "United States",
+        "lead_origin": "styleseat",
+        "lead_origin_url": "https://www.styleseat.com/m/v/charlenecaesar3?sid=SEARCH-94cb24ac-5175-4526-878c-b622db918e4e&providerId=charlenecaesar3&proId=2062752&serviceId=9671028&matchedServiceId=9671028",
+        "business_name": "Charlene the Braider",
+        "first_name": "charlene",
+        "last_name": "caesar",
+        "phone": "+13474719816",
+        "about_business": "Braider located in Brooklyn, New York.",
+        "instagram_handle": "charlene_the_braider_",
+        "instagram_follower_count": 1028,
+        "portfolio_image_1": "https://www.instagram.com/p/CwiA24BAxdr/media?img_index=1&size=l",
+        "portfolio_image_2": "https://www.instagram.com/p/CwiA24BAxdr/media?img_index=3&size=l",
+        "portfolio_image_3": "https://www.instagram.com/p/Cy5oOJuAZSR/media?img_index=1&size=l",
+        "portfolio_image_4": "https://www.instagram.com/p/CwyX84yvRKr/media?img_index=1&size=l",
+        "lead_status": "new_lead",
+        "created_by_name": "Cheyanne Cowfer",
+        "createdAt": "2024-06-19T02:04:05.523Z",
+        "updatedAt": "2024-07-02T04:17:15.708Z",
+        "hair_type": "black_hair",
+        "sex": "woman",
+        "city": "los angeles",
+        "email": "charlenethebraider@gmail.com",
+        "state": "CA",
+        "demo_site_url": "https://www.google.com/charlene_the_braider_",
+        "lead_type": "hairstylist"
+      }
+    ],
+    "totalDocs": 1,
+    "limit": 1,
+    "totalPages": 1,
+    "page": 1,
+    "pagingCounter": 1,
+    "hasPrevPage": false,
+    "hasNextPage": false,
+    "prevPage": null,
+    "nextPage": null
+  }

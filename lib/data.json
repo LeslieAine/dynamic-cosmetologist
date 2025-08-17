@@ -1,0 +1,610 @@
+{
+    "hairstylist": {
+        "jobTitle": "Hair Stylist",
+        "aboutContent": "Hairstylists are true artists, weaving their magic with every snip,curl,and color, transforming hair into masterpieces that reflect individuality and beauty. Their passion goes beyond mere technique; it's a heartfelt dedication to making clients feel confident and radiant. Every day, they bring dreams to life, listening intently to desires and envisioning the perfect style that not only enhances physical appearance but also uplifts spirits. Their hands craft more than just hairstyles - they create experiences, memories, and a sense of empowerment. In the world of beauty, hairstylists are the unsung heroes, using their creative genius to ensure everyone walks out with a smile and a bounce in their step",
+        "mainTitle": "Style Your Story with Us",
+        "mainBackgrdImageBlack": "https://www.dropbox.com/scl/fi/8j068vua4nc3j9kyalk7c/beauty-salon2.webp?rlkey=9lpkif83uwsx0hc6lts0fi50k&st=cl280z8o&dl=0&raw=1",
+        "mainBackgrdImageWhite": "https://www.dropbox.com/scl/fi/1pmvfp048p39klwmxajqj/beauty-salon.webp?rlkey=zf9t7rvis9phx1nzd1wucq7li&st=zxvxy0nr&dl=0&raw=1",
+        "color": "#d884bd",
+        "blackHairEmployees": [
+            {
+                "id": 1,
+                "name": "Employee 1",
+                "image": "https://www.dropbox.com/scl/fi/bjnz0q6ay8uzrfrrnx4p1/female3.webp?rlkey=u141bzw4yihxs285se3s4izm9&st=ym1j6xox&dl=0&raw=1",
+                "description": "This is our expert braider with 5 years of experience, specializing in intricate styles."
+            },
+            {
+                "id": 2,
+                "name": "Employee 2",
+                "image": "https://www.dropbox.com/scl/fi/bjnz0q6ay8uzrfrrnx4p1/female3.webp?rlkey=u141bzw4yihxs285se3s4izm9&st=ym1j6xox&dl=0&raw=1",
+                "description": "Our stylist excels in creative braiding and has been transforming hair for 4 years."
+            },
+            {
+                "id": 3,
+                "name": "Employee 3",
+                "image": "https://www.dropbox.com/scl/fi/bjnz0q6ay8uzrfrrnx4p1/female3.webp?rlkey=u141bzw4yihxs285se3s4izm9&st=ym1j6xox&dl=0&raw=1",
+                "description": "With a keen eye for detail, this professional has been perfecting braids for over 6 years."
+            },
+            {
+                "id": 4,
+                "name": "Employee 4",
+                "image": "https://www.dropbox.com/scl/fi/bjnz0q6ay8uzrfrrnx4p1/female3.webp?rlkey=u141bzw4yihxs285se3s4izm9&st=ym1j6xox&dl=0&raw=1",
+                "description": "Specializing in modern and classic braiding styles, our expert has 7 years of experience."
+            }
+        ],
+        "whiteHairEmployees": [
+            {
+                "id": 1,
+                "name": "Employee 1",
+                "image": "https://www.dropbox.com/scl/fi/m0drptw7p38pqp6cbxefs/female.webp?rlkey=fryq1adfg1jzkdyfg4fohf8sm&st=co1jqzc0&dl=0&raw=1",
+                "description": "A master stylist with a passion for creative haircuts and 5 years of experience."
+            },
+            {
+                "id": 2,
+                "name": "Employee 2",
+                "image": "https://www.dropbox.com/scl/fi/m0drptw7p38pqp6cbxefs/female.webp?rlkey=fryq1adfg1jzkdyfg4fohf8sm&st=co1jqzc0&dl=0&raw=1",
+                "description": "Our senior stylist known for innovative styling techniques and 4 years in the industry."
+            },
+            {
+                "id": 3,
+                "name": "Employee 3",
+                "image": "https://www.dropbox.com/scl/fi/m0drptw7p38pqp6cbxefs/female.webp?rlkey=fryq1adfg1jzkdyfg4fohf8sm&st=co1jqzc0&dl=0&raw=1",
+                "description": "An expert in precision cuts and color, with over 6 years of professional experience."
+            },
+            {
+                "id": 4,
+                "name": "Employee 4",
+                "image": "https://www.dropbox.com/scl/fi/m0drptw7p38pqp6cbxefs/female.webp?rlkey=fryq1adfg1jzkdyfg4fohf8sm&st=co1jqzc0&dl=0&raw=1",
+                "description": "Specializing in contemporary hairstyles, this stylist brings 7 years of expertise."
+            }
+        ],
+        "skills": [
+            {
+                "id": 1,
+                "name": "Hair Braiding",
+                "percent": "94",
+                "fontawesomeIcon": "fa-solid fa-spa"
+            },
+            {
+                "id": 2,
+                "name": "Hair Trimming",
+                "percent": "98",
+                "fontawesomeIcon": "fa fa-scissors"
+            },
+            {
+                "id": 3,
+                "name": "Grooming",
+                "percent": "75",
+                "fontawesomeIcon": "fa-solid fa-cut"
+            }
+        ],
+        "services": [
+            {
+                "title": "Hair color",
+                "services": [
+                    "Balayage",
+                    "Highlights",
+                    "Full color"
+                ]
+            },
+            {
+                "title": "Style/updo",
+                "services": [
+                    "Braid",
+                    "Updo",
+                    "Blow out"
+                ]
+            },
+            {
+                "title": "Hair Treatments",
+                "services": [
+                    "Shine treatment",
+                    "Botanical treatment",
+                    "Scalp renewal"
+                ]
+            },
+            {
+                "title": "Hair cut",
+                "services": [
+                    "Women’s cut",
+                    "Men’s cut",
+                    "Kids cut"
+                ]
+            }
+        ],
+        "reviews": [
+            {
+                "jobTitle": "Project Manager",
+                "avatar": "../public/images/testimonial-avatar.jpg",
+                "name": "Emily Richards",
+                "review": "I had an amazing experience with Lisa! From the moment I walked in, she made me feel comfortable and listened carefully to what I wanted. I came in for a complete transformation, and she delivered beyond my expectations. My new haircut is great and easy to maintain. Lisa also gave me great tips on how to keep my hair healthy. I highly recommend her to anyone looking for a skilled and friendly stylist!"
+            },
+            {
+                "jobTitle": "Project Manager",
+                "avatar": "../public/images/testimonial-avatar.jpg",
+                "name": "Sarah Mitchell",
+                "review": "I had my first appointment with Monica last week, and I couldn't be happier with the results. She is incredibly talented and has a wonderful personality. Monica took the time to understand my hair type and what I was hoping to achieve. She suggested a few changes to my usual cut and color, and I absolutely love the outcome. My hair feels healthier and looks better than ever. I'll definitely be returning to Monica for all my future hair needs!"
+            },
+            {
+                "jobTitle": "Project Manager",
+                "avatar": "../public/images/testimonial-avatar.jpg",
+                "name": "Jessica Brooks",
+                "review": "I recently visited Ashley for a haircut and highlights, and the experience was fantastic! She is so friendly and made sure to consult with me thoroughly before starting. Ashley's attention to detail is incredible, and she made sure every strand was perfect. The highlights blend beautifully, and the cut is exactly what I wanted. I've received so many compliments on my new look! Ashley is truly talented and has a great eye for what suits her clients. I can't wait for my next appointment!"
+            }
+        ]
+    },
+    "barber": {
+        "jobTitle": "Barber",
+        "aboutContent": "Barbers are masters of their craft, blending tradition with innovation to sculpt not just hair, but confidence and style. With a keen eye for detail and a steady hand, they transform the simple act of a haircut into a ritual of self-care and expression. Each visit to the barber's chair is a moment of trust and connection, where stories are shared and personal styles are meticulously honed. Barbers bring a unique artistry to their work, from precise fades to sharp lines, ensuring every client leaves looking sharp and feeling invigorated. Their dedication to their craft is evident in every stroke of the razor and snip of the scissors, making them essential curators of both personal and cultural identity.",
+        "mainTitle": "Crafting Confidence, One Cut At A Time",
+        "mainBackgrdImage": "/images/barber.jpeg",
+        "mainBackgrdImageBlack": "https://www.dropbox.com/scl/fi/7u9loxgjkq9m3hjiternx/barbershop2.webp?rlkey=ecy3vrxq5b110fh775so3uc76&st=0z7j072t&dl=0&raw=1",
+        "mainBackgrdImageWhite": "https://www.dropbox.com/scl/fi/npl6aosptfhpaiyyxjh5a/barbershop1.webp?rlkey=fwu1mneq8j18xdhkcqf9i7hr0&st=jzzfkdtj&dl=0&raw=1",
+        "color": "#5a6a8c",
+        "blackHairEmployees": [
+            {
+                "id": 1,
+                "name": "Employee 1",
+                "image": "https://www.dropbox.com/scl/fi/esxdp7fy3hqlz0q430rzw/male2.webp?rlkey=1gmaak4do7qermqcvvfnxho01&st=cq9l7ng8&dl=0&raw=1",
+                "description": "Our barber with a knack for classic and modern cuts, boasting 5 years of professional service."
+            },
+            {
+                "id": 2,
+                "name": "Employee 2",
+                "image": "https://www.dropbox.com/scl/fi/11z9fnq3neuj01krzjd2i/male4.webp?rlkey=lfbd0zy6hmu2msw4pd4x7g5j3&st=1fk7rkaz&dl=0&raw=1",
+                "description": "An experienced barber specializing in precision cuts and fades, with 4 years of expertise."
+            },
+            {
+                "id": 3,
+                "name": "Employee 3",
+                "image": "https://www.dropbox.com/scl/fi/esxdp7fy3hqlz0q430rzw/male2.webp?rlkey=1gmaak4do7qermqcvvfnxho01&st=cq9l7ng8&dl=0&raw=1",
+                "description": "Renowned for his detailed work, this barber has been honing his skills for 6 years."
+            },
+            {
+                "id": 4,
+                "name": "Employee 4",
+                "image": "https://www.dropbox.com/scl/fi/11z9fnq3neuj01krzjd2i/male4.webp?rlkey=lfbd0zy6hmu2msw4pd4x7g5j3&st=1fk7rkaz&dl=0&raw=1",
+                "description": "Specializing in stylish and contemporary haircuts, our barber brings 7 years of experience."
+            }
+        ],
+        "whiteHairEmployees": [
+            {
+                "id": 1,
+                "name": "Employee 1",
+                "image": "https://www.dropbox.com/scl/fi/w236g5txeh88yku4n656i/male.webp?rlkey=5siqaz9j633felytzoj0ixdnh&st=wcceq1e4&dl=0&raw=1",
+                "description": "A versatile stylist known for exceptional haircuts, with 5 years in the field."
+            },
+            {
+                "id": 2,
+                "name": "Employee 2",
+                "image": "https://www.dropbox.com/scl/fi/e7qt5p62z61uournjotz9/male5.webp?rlkey=qdc6x69zss2u5ddqsbp213vsc&st=4ajq2ftt&dl=0&raw=1",
+                "description": "This stylist brings creativity and precision to every haircut, backed by 4 years of experience."
+            },
+            {
+                "id": 3,
+                "name": "Employee 3",
+                "image": "https://www.dropbox.com/scl/fi/w236g5txeh88yku4n656i/male.webp?rlkey=5siqaz9j633felytzoj0ixdnh&st=wcceq1e4&dl=0&raw=1",
+                "description": "An adept professional in modern styles and precision cuts, with 6 years in the industry."
+            },
+            {
+                "id": 4,
+                "name": "Employee 4",
+                "image": "https://www.dropbox.com/scl/fi/e7qt5p62z61uournjotz9/male5.webp?rlkey=qdc6x69zss2u5ddqsbp213vsc&st=4ajq2ftt&dl=0&raw=1",
+                "description": "Known for innovative and stylish cuts, this stylist has 7 years of dedicated service."
+            }
+        ],
+        "services": [
+            {
+                "title": "Hair Cut",
+                "services": [
+                    "Trim",
+                    "Buzz Cut",
+                    "Fade"
+                ]
+            },
+            {
+                "title": "Beard/Mustache Grooming",
+                "services": [
+                    "Beard trim",
+                    "Mustache trim",
+                    "Beard & mustache trim"
+                ]
+            },
+            {
+                "title": "Hair Color",
+                "services": [
+                    "Beard/Mustache Color",
+                    "Hair Color",
+                    "Highlights"
+                ]
+            },
+            {
+                "title": "Hair Treatments",
+                "services": [
+                    "Scalp treatment",
+                    "Hydrating treatment",
+                    "Shampoo & Blow Dry"
+                ]
+            }
+        ],
+        "reviews": [
+            {
+                "jobTitle": "Project Manager",
+                "avatar": "@/public/images/testimonial-avatar.jpg",
+                "name": "Mark Thompson",
+                "review": "I've been going to Jason for over a year now, and he never disappoints. He has a great eye for detail and always takes the time to ensure my hair looks perfect. Last week, I decided to change my usual style, and Jason was very accommodating and gave me excellent advice. The only reason I'm giving 4 stars instead of 5 is because the salon can get quite busy, making it a bit noisy. However, Jason's skill and professionalism make it worth it. Highly recommended!"
+            },
+            {
+                "jobTitle": "Project Manager",
+                "avatar": "@/public/images/testimonial-avatar.jpg",
+                "name": "Michael Anderson",
+                "review": "I've been going to this Barber Shop for the past six months, and it's hands down the best barbershop in town. The atmosphere is welcoming, and the barbers are all highly skilled. My barber, Jake, always takes the time to understand exactly what I want and consistently delivers a perfect cut. The attention to detail and precision are outstanding. Plus, the complimentary hot towel treatment is a nice touch. Highly recommend this place to anyone looking for a top-notch barber shop experience!"
+            },
+            {
+                "jobTitle": "Project Manager",
+                "avatar": "@/public/images/testimonial-avatar.jpg",
+                "name": "Alex Rodriguez",
+                "review": "I had an excellent experience at Uptown Barbers. From the moment I walked in, I was greeted warmly and made to feel at home. My barber, Chris, was fantastic. He listened carefully to what I wanted and offered some great suggestions. The haircut was precise and stylish, exactly what I was looking for. The shop itself is clean and has a modern, yet comfortable feel. Chris even gave me tips on how to maintain my hairstyle between visits. I'll definitely be returning and recommending Uptown Barbers to all my friends!"
+            }
+        ],
+        "skills": [
+            {
+                "id": 1,
+                "name": "Hair Cutting",
+                "percent": "95",
+                "fontawesomeIcon": "fa-solid fa-cut"
+            },
+            {
+                "id": 2,
+                "name": "Beard Trimming",
+                "percent": "90",
+                "fontawesomeIcon": "fa-solid fa-beard"
+            },
+            {
+                "id": 3,
+                "name": "Shaving",
+                "percent": "85",
+                "fontawesomeIcon": "fa-solid fa-razor"
+            },
+            {
+                "id": 4,
+                "name": "Hair Styling",
+                "percent": "92",
+                "fontawesomeIcon": "fa-solid fa-comb"
+            }
+        ]
+    },
+    "nails": {
+        "jobTitle": "Nail Tech",
+        "aboutContent": "Nail technicians are the unsung artisans of beauty,transforming fingertips into dazzling canvases that reflect personal style and creativity. With meticulous precision and an artist's touch, they blend colors, textures, and designs to craft miniature masterpieces that enhance self- expression and confidence. Every session is an intimate experience where their skillful hands and creative vision turn simple nails into bold statements or delicate works of art. Their dedication to their craft is palpable in every brushstroke and embellishment, ensuring each client leaves with a renewed sense of beauty and individuality. Nail technicians bring a unique blend of passion and artistry to their work, making them vital contributors to the world of beauty and self-care.",
+        "mainTitle": "Nails Transformed, Confidence Redefined",
+        "mainBackgrdImage": "https://www.dropbox.com/scl/fi/3w9tigy1p72udn3vp2sol/nail-salon.webp?rlkey=4pgdtskizlonjehqjrp4uf0bj&st=rsypgs2b&dl=0&raw=1",
+        "color": "#d884bd",
+        "employees": [
+            {
+                "id": 1,
+                "name": "Employee 1",
+                "image": "https://www.dropbox.com/scl/fi/m0drptw7p38pqp6cbxefs/female.webp?rlkey=fryq1adfg1jzkdyfg4fohf8sm&st=75l65uls&dl=0&raw=1",
+                "description": "Our skilled nail technician with 5 years of experience in nail art and care."
+            },
+            {
+                "id": 2,
+                "name": "Employee 2",
+                "image": "https://www.dropbox.com/scl/fi/ct0qzuhjj9iqp8iu74m2e/female2.webp?rlkey=cqjq5mu0xnaqb54njwy2pjshs&st=5ik6xwpe&dl=0&raw=1",
+                "description": "Expert in nail design and maintenance, with 4 years in the industry."
+            },
+            {
+                "id": 3,
+                "name": "Employee 3",
+                "image": "https://www.dropbox.com/scl/fi/m0drptw7p38pqp6cbxefs/female.webp?rlkey=fryq1adfg1jzkdyfg4fohf8sm&st=75l65uls&dl=0&raw=1",
+                "description": "Known for creative and detailed nail art, this technician has 6 years of experience."
+            },
+            {
+                "id": 4,
+                "name": "Employee 4",
+                "image": "https://www.dropbox.com/scl/fi/ct0qzuhjj9iqp8iu74m2e/female2.webp?rlkey=cqjq5mu0xnaqb54njwy2pjshs&st=5ik6xwpe&dl=0&raw=1",
+                "description": "Specializing in both classic and modern nail styles, with 7 years of expertise."
+            }
+        ],
+        "services": [
+            {
+                "title": "Acrylics",
+                "services": [
+                    "Full Set",
+                    "Fill",
+                    "Removal"
+                ]
+            },
+            {
+                "title": "Gel Manicure",
+                "services": [
+                    "Basic Manicure",
+                    "Premium Manicure",
+                    "Gel removal"
+                ]
+            },
+            {
+                "title": "Gel Pedicure",
+                "services": [
+                    "Basic Pedicure",
+                    "Premium Pedicure",
+                    "Gel removal"
+                ]
+            },
+            {
+                "title": "Add ons",
+                "services": [
+                    "Nail Art",
+                    "Matte",
+                    "Extra Massage"
+                ]
+            }
+        ],
+        "reviews": [
+            {
+                "jobTitle": "Project Manager",
+                "avatar": "@/public/images/testimonial-avatar.jpg",
+                "name": "Olivia Martinez",
+                "review": "I had the pleasure of getting my nails done by Sarah, and I couldn't be happier with the results! Sarah is incredibly talented and pays great attention to detail. I opted for a gel manicure with intricate designs, and Sarah nailed it perfectly. The salon is clean and has a relaxing atmosphere, which makes the experience even better. Sarah also gave me tips on how to maintain my nails between appointments. I'll definitely be returning to Sarah for all my nail needs!"
+            },
+            {
+                "jobTitle": "Project Manager",
+                "avatar": "@/public/images/testimonial-avatar.jpg",
+                "name": "Mia Patel",
+                "review": "I had an amazing experience with Jenna. She is a true artist when it comes to nail design. I wanted a unique, colorful set of acrylic nails, and Jenna exceeded my expectations. She took her time to make sure each nail was perfect and added beautiful details that made my nails stand out. The salon is modern and comfortable, and Jenna's friendly and professional demeanor made the appointment enjoyable. I highly recommend Jenna to anyone looking for a top-notch nail tech!"
+            },
+            {
+                "jobTitle": "Project Manager",
+                "avatar": "@/public/images/testimonial-avatar.jpg",
+                "name": "Emma Wilson",
+                "review": "I recently visited and had my nails done by Sarah. She did a fantastic job with my classic French manicure. Sarah is meticulous and ensured that my nails looked flawless. The only reason I'm giving 4 stars instead of 5 is because the salon was quite busy, and I had to wait a bit despite having an appointment. However, Sarah’s skill and the quality of her work made up for it. I'll definitely be back to see Sarah for my next manicure!"
+            }
+        ],
+        "skills": [
+            {
+                "id": 1,
+                "name": "Manicure",
+                "percent": "95",
+                "fontawesomeIcon": "fa-solid fa-hand-sparkles"
+            },
+            {
+                "id": 2,
+                "name": "Pedicure",
+                "percent": "90",
+                "fontawesomeIcon": "fa-solid fa-footprints"
+            },
+            {
+                "id": 3,
+                "name": "Gel Nails",
+                "percent": "85",
+                "fontawesomeIcon": "fa-solid fa-paint-brush"
+            },
+            {
+                "id": 4,
+                "name": "Nail Art",
+                "percent": "92",
+                "fontawesomeIcon": "fa-solid fa-palette"
+            }
+        ]
+    },
+    "makeup": {
+        "aboutContent": "Makeup artists are the magicians of the beauty world,using their brushes and palettes to transform faces into stunning works of art. With a deep understanding of color, texture, and light, they have the power to highlight natural beauty and create bold, imaginative looks that captivate and inspire. Each stroke of their brush is infused with creativity and precision, whether crafting a flawless everyday look or an avant-garde masterpiece for the runway. Their work goes beyond mere aesthetics; it's about empowering individuals, boosting confidence, and bringing out the inner glow that radiates from within. Makeup artists blend passion with skill, turning every face into a unique canvas that tells a story of beauty, strength, and self-expression.",
+        "mainTitle": "Artistry that Empowers Your Beauty",
+        "mainBackgrdImage": "https://www.dropbox.com/scl/fi/p0f7ogzu7zkbfh6uz67ch/makeup-salon.webp?rlkey=xalwvdchzy63ha3fvmzgy9yqx&st=ytekhsqw&dl=0&raw=1",
+        "color": "#d884bd",
+        "employees": [
+            {
+                "id": 1,
+                "name": "Employee 1",
+                "image": "https://www.dropbox.com/scl/fi/m0drptw7p38pqp6cbxefs/female.webp?rlkey=fryq1adfg1jzkdyfg4fohf8sm&st=75l65uls&dl=0&raw=1",
+                "description": "A professional makeup artist with 5 years of experience, known for creating stunning looks."
+            },
+            {
+                "id": 2,
+                "name": "Employee 2",
+                "image": "https://www.dropbox.com/scl/fi/ct0qzuhjj9iqp8iu74m2e/female2.webp?rlkey=cqjq5mu0xnaqb54njwy2pjshs&st=5ik6xwpe&dl=0&raw=1",
+                "description": "An expert in makeup artistry, specializing in bridal and special occasion looks, with 4 years in the industry."
+            },
+            {
+                "id": 3,
+                "name": "Employee 3",
+                "image": "https://www.dropbox.com/scl/fi/bjnz0q6ay8uzrfrrnx4p1/female3.webp?rlkey=u141bzw4yihxs285se3s4izm9&st=qc8dmvsj&dl=0&raw=1",
+                "description": "Creative makeup artist with 6 years of experience, known for innovative and glamorous styles."
+            },
+            {
+                "id": 4,
+                "name": "Employee 4",
+                "image": "https://www.dropbox.com/scl/fi/esxdp7fy3hqlz0q430rzw/male2.webp?rlkey=1gmaak4do7qermqcvvfnxho01&st=upkk6noa&dl=0&raw=1",
+                "description": "A skilled makeup artist with 7 years of experience, specializing in editorial and fashion makeup."
+            }
+        ],
+        "services": [
+            {
+                "title": "Twists",
+                "services": [
+                    "Men’s",
+                    "Women’s Mid-Back Length",
+                    "Women’s Waist Length"
+                ]
+            },
+            {
+                "title": "Hair Treatment",
+                "services": [
+                    "Wash and blow dry",
+                    "Deep conditioning",
+                    "Hydrate and define"
+                ]
+            },
+            {
+                "title": "Braids",
+                "services": [
+                    "2 braids",
+                    "5-8 braids",
+                    "Freestyle"
+                ]
+            },
+            {
+                "title": "Cut",
+                "services": [
+                    "Fade",
+                    "Buzzcut",
+                    "Crew Cut"
+                ]
+            }
+        ],
+        "reviews": [
+            {
+                "jobTitle": "Project Manager",
+                "avatar": "@/public/images/testimonial-avatar.jpg",
+                "name": "Jasmine Taylor",
+                "review": "I had an incredible experience with Keisha at Braid Masters! She is exceptionally skilled and has a keen eye for detail. I came in for box braids, and Keisha exceeded my expectations. The braids are neat, uniform, and look absolutely stunning. The entire process was smooth, and she made sure I was comfortable throughout. Keisha also provided helpful advice on how to care for my braids to ensure they last longer. I am thrilled with the results and will definitely be back!"
+            },
+            {
+                "jobTitle": "Project Manager",
+                "avatar": "@/public/images/testimonial-avatar.jpg",
+                "name": "Destiny Harris",
+                "review": "My appointment with Tasha was fantastic! Tasha is a true professional who knows her craft inside and out. I wanted a unique braided updo for a special event, and Tasha delivered flawlessly. The style was intricate and beautifully done, and I received countless compliments throughout the night. The salon has a welcoming atmosphere, and Tasha's friendly demeanor made the experience even better. I highly recommend Tasha to anyone looking for a talented braider."
+            },
+            {
+                "jobTitle": "Project Manager",
+                "avatar": "@/public/images/testimonial-avatar.jpg",
+                "name": "Carla Johnson",
+                "review": "I recently got my hair braided by Monique and I am very pleased with the results. Monique is very talented and did a wonderful job with my cornrows. She was quick, efficient, and ensured that I was comfortable during the entire process. The only reason I'm giving 4 stars instead of 5 is because the salon was quite busy, and I had to wait a bit past my appointment time. However, Monique's skill and the quality of her work made it worth the wait. I'll definitely be returning for future styles!"
+            }
+        ],
+        "skills": [
+            {
+                "id": 1,
+                "name": "Foundation Application",
+                "percent": "95",
+                "fontawesomeIcon": "fa-solid fa-makeup-brush"
+            },
+            {
+                "id": 2,
+                "name": "Eyeshadow Techniques",
+                "percent": "90",
+                "fontawesomeIcon": "fa-solid fa-eye"
+            },
+            {
+                "id": 3,
+                "name": "Contouring",
+                "percent": "85",
+                "fontawesomeIcon": "fa-solid fa-paint-roller"
+            },
+            {
+                "id": 4,
+                "name": "Highlighting",
+                "percent": "92",
+                "fontawesomeIcon": "fa-solid fa-sun"
+            }
+        ]
+    },
+    "esthetician": {
+        "aboutContent": "Estheticians are the dedicated guardians of radiant skin,transforming skincare into a luxurious art form that nurtures both beauty and well- being. With a deep knowledge of skin science and an intuitive touch, they tailor treatments to each client's unique needs, revealing the natural glow hidden beneath the surface. Their work is a harmonious blend of precision and passion, from rejuvenating facials and soothing massages to advanced treatments that combat aging and imperfections. Every session is an intimate journey toward self-care and renewal, where clients leave not just looking, but feeling, revitalized and confident. Estheticians bring a profound dedication to enhancing beauty and fostering self-love, making them indispensable artisans in the world of personal care and wellness.",
+        "mainTitle": "Radiance Starts here, Define Yours",
+        "mainBackgrdImage": "https://www.dropbox.com/scl/fi/lqu2fno4canb81545pnxw/esthetician-salon.webp?rlkey=3hi9mcyfne7w4xf6rnqiv2jbv&st=tjh1njtz&dl=0&raw=1",
+        "color": "#d2b48c",
+        "employees": [
+            {
+                "name": "Employee 1",
+                "image": "https://www.dropbox.com/scl/fi/m0drptw7p38pqp6cbxefs/female.webp?rlkey=fryq1adfg1jzkdyfg4fohf8sm&st=75l65uls&dl=0&raw=1",
+                "description": "This is our pro makeup artist with 5 years of experience and has worked with over 50 clients."
+            },
+            {
+                "name": "Employee 2",
+                "image": "https://www.dropbox.com/scl/fi/ct0qzuhjj9iqp8iu74m2e/female2.webp?rlkey=cqjq5mu0xnaqb54njwy2pjshs&st=5ik6xwpe&dl=0&raw=1",
+                "description": "This is our pro makeup artist with 5 years of experience and has worked with over 50 clients."
+            },
+            {
+                "name": "Employee 3",
+                "image": "https://www.dropbox.com/scl/fi/bjnz0q6ay8uzrfrrnx4p1/female3.webp?rlkey=u141bzw4yihxs285se3s4izm9&st=qc8dmvsj&dl=0&raw=1",
+                "description": "This is our pro makeup artist with 5 years of experience and has worked with over 50 clients."
+            },
+            {
+                "name": "Employee 4",
+                "image": "https://www.dropbox.com/scl/fi/esxdp7fy3hqlz0q430rzw/male2.webp?rlkey=1gmaak4do7qermqcvvfnxho01&st=upkk6noa&dl=0&raw=1",
+                "description": "This is our pro makeup artist with 5 years of experience and has worked with over 50 clients."
+            }
+        ],
+        "services": [
+            {
+                "title": "Facials",
+                "services": [
+                    "Brightening facial",
+                    "Hydrafacial",
+                    "Pore Cleansing Facial"
+                ]
+            },
+            {
+                "title": "Waxing",
+                "services": [
+                    "Eyebrow Waxing",
+                    "Lip Waxing",
+                    "Chin Waxing"
+                ]
+            },
+            {
+                "title": "Body Wraps",
+                "services": [
+                    "Seaweed Wrap",
+                    "Hydrating Wrap",
+                    "Detox Wrap"
+                ]
+            },
+            {
+                "title": "Hair Styling",
+                "services": [
+                    "Updo",
+                    "Braid",
+                    "Blow Out"
+                ]
+            }
+        ],
+        "reviews": [
+            {
+                "jobTitle": "Project Manager",
+                "avatar": "@/public/images/testimonial-avatar.jpg",
+                "name": "Laura Simmons",
+                "review": "I recently had a facial with Rebecca and it was an amazing experience. Rebecca is extremely knowledgeable and made me feel at ease right away. She assessed my skin and customized the treatment to address my specific concerns. The results were fantastic—my skin felt rejuvenated and was glowing. Rebecca also provided excellent advice on how to maintain healthy skin at home. I will definitely be returning for more treatments with her. Highly recommend!"
+            },
+            {
+                "jobTitle": "Project Manager",
+                "avatar": "@/public/images/testimonial-avatar.jpg",
+                "name": "Jason Lee",
+                "review": "I had my first appointment with Michelle last week, and I couldn't be more pleased. Michelle is a true professional who really knows her stuff. She took the time to explain each step of the process and made sure I was comfortable throughout my chemical peel treatment. The results were incredible—my skin has never looked better. The salon is clean, calming, and the entire experience was top-notch. I'll definitely be booking more sessions with Michelle in the future!"
+            },
+            {
+                "jobTitle": "Project Manager",
+                "avatar": "@/public/images/testimonial-avatar.jpg",
+                "name": "Samantha Green",
+                "review": "I had a great experience with Emma. She is very skilled and provided an excellent microdermabrasion treatment. Emma was thorough in explaining the procedure and its benefits, which made me feel confident and relaxed. The only reason I'm giving 4 stars instead of 5 is because the appointment started a bit late, but Emma's expertise and the quality of the treatment made it worth the wait. My skin feels smoother and looks much clearer. I'll definitely return to Emma for more treatments!"
+            }
+        ],
+        "skills": [
+            {
+                "id": 1,
+                "name": "Facial Cleansing",
+                "percent": "95",
+                "fontawesomeIcon": "fa-solid fa-water"
+            },
+            {
+                "id": 2,
+                "name": "Exfoliation",
+                "percent": "90",
+                "fontawesomeIcon": "fa-solid fa-leaf"
+            },
+            {
+                "id": 3,
+                "name": "Facial Massage",
+                "percent": "85",
+                "fontawesomeIcon": "fa-solid fa-hand-holding-heart"
+            },
+            {
+                "id": 4,
+                "name": "Skin Analysis",
+                "percent": "92",
+                "fontawesomeIcon": "fa-solid fa-microscope"
+            }
+        ]
+    }
+}
